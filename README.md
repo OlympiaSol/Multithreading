@@ -1,6 +1,3 @@
-Sure, here is the revised README file in the past tense:
-
----
 
 # Multithreaded Storage Engine Implementation
 
